@@ -1,4 +1,4 @@
-baseURL = 'http://75.119.149.195/'
+baseURL = 'http://localhost/'
 languageCode = 'fr-fr'
 title = 'My New Hugo Site'
-theme = 'stack'
+theme = 'DoIt'
