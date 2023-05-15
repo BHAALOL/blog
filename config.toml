@@ -1,0 +1,4 @@
+baseURL = 'http://75.119.149.195/'
+languageCode = 'fr-fr'
+title = 'My New Hugo Site'
+theme = 'stack'
