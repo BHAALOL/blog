@@ -1,6 +1,7 @@
 ---
 title: "Second Article Test"
 date: 2023-05-16T08:24:09+02:00
+authors: [GuigZer]
 draft: false
 ---
 # Test de build automatique sur Git
