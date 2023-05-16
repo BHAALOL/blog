@@ -2,15 +2,15 @@
     <channel>
         <title>BHAA&#39;s Blog</title>
         <link>http://localhost/</link>
-        <description>BHAA&#39;s Blog</description>
+        <description>This is My New Hugo Site</description>
         <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Mon, 15 May 2023 15:40:07 &#43;0200</lastBuildDate>
             <atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>My First Post</title>
-    <link>http://localhost/posts/my-first-post/</link>
+    <link>http://localhost/my-first-post/</link>
     <pubDate>Mon, 15 May 2023 15:40:07 &#43;0200</pubDate><author>
-        <name>Auteur</name>
-    </author><guid>http://localhost/posts/my-first-post/</guid>
+        <name>xxxx</name>
+    </author><guid>http://localhost/my-first-post/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
