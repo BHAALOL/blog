@@ -6,11 +6,10 @@ draft: false
 ---
 
 # Hugo
-<!--more-->
-Hugo est un générateur de sites web statiques populaire. Il permet de créer des sites rapides et sécurisés sans besoin de base de données. Grâce à sa flexibilité et à sa communauté active, il offre de nombreuses fonctionnalités et thèmes personnalisables. Hugo est idéal pour ceux qui recherchent une solution simple et efficace pour créer des sites web statiques.
-## Installation 
 
-### Packet debian
+Hugo est un générateur de sites web statiques populaire. Il permet de créer des sites rapides et sécurisés sans besoin de base de données. Grâce à sa flexibilité et à sa communauté active, <!--more--> il offre de nombreuses fonctionnalités et thèmes personnalisables. Hugo est idéal pour ceux qui recherchent une solution simple et efficace pour créer des sites web statiques.
+## Installation du Packet debian
+
 Pour commencer il est nécéssaire d'installer le paquet Hugo pour votre OS (Dans mon cas Debian 11). Le paquet n'étant pas forcément a jour sur les dépot officier Debian il est préférable d'installer le binaire dispo sur le repo git du projet → **[Release Hugo](https://github.com/gohugoio/hugo/releases "Release Hugo")** . Dans mon cas il faut prendre la version hugo_**__extended__** elle sera utile pour le futur theme.
 ```console
 user@serv:~# mkdir hugo
@@ -33,3 +32,15 @@ Dans l'ordre :
 + Initialisation un nouveau dépot git
 + Ajout un sous module git qui est enfait le theme que l'ont souhaite utiliser
 + Hugo build le site.
+
+## Push du dépot sur git
+
+1. Créer un dépot sur GitHub
+2. Push le dépot local (Serveur) sur GitHub
+```console
+git remote add origin git@github.com:[Username]/[nds].git
+git branch -M main
+git push -u origin main
+```
+3. Dans votre dépot GitHub il faut aller dans **Settings > Pages** au milleux de la page vous devez voir **Build and deployment** 
+4. 
