@@ -6,9 +6,10 @@ draft: false
 ---
 
 # Hugo
+<!-- empty line -->
 Hugo est un générateur de sites web statiques populaire. Il permet de créer des sites rapides et sécurisés sans besoin de base de données. Grâce à sa flexibilité et à sa communauté active, il offre de nombreuses fonctionnalités et thèmes personnalisables. Hugo est idéal pour ceux qui recherchent une solution simple et efficace pour créer des sites web statiques.
 ## Installation 
-
+<!-- empty line -->
 ### Packet debian
 Pour commencer il est nécéssaire d'installer le paquet Hugo pour votre OS (Dans mon cas Debian 11). Le paquet n'étant pas forcément a jour sur les dépot officier Debian il est préférable d'installer le binaire dispo sur le repo git du projet → **[Release Hugo](https://github.com/gohugoio/hugo/releases "Release Hugo")** . Dans mon cas il faut prendre la version hugo_**__extended__** elle sera utile pour le futur theme.
 ```console
