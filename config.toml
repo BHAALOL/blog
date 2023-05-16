@@ -222,7 +222,7 @@ theme = "DoIt"
 
   # Social config about the author
   [params.social]
-    GitHub = "https://github.com/BHAALOL"
+    GitHub = "BHAALOL"
     Linkedin = ""
     Twitter = ""
     Instagram = ""
