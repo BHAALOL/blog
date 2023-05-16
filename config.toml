@@ -22,7 +22,7 @@ theme = "DoIt"
     name = "Posts"
     url = "/posts/"
     # title will be shown when you hover on this menu link
-    title = ""
+    title = "BHAA's Blog"
     weight = 1
   [[menu.main]]
     identifier = "tags"
@@ -54,7 +54,7 @@ theme = "DoIt"
   #  DoIt theme version
   version = "0.3.X"
   # website title
-  title = "My New Hugo Site"
+  title = "BHAA's Blog"
   # site description
   description = "This is My New Hugo Site"
   # site keywords
@@ -135,7 +135,7 @@ theme = "DoIt"
       # URL of the LOGO
       logo = ""
       # title name
-      name = ""
+      name = "BHAA's Blog"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
