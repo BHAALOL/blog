@@ -56,7 +56,7 @@ theme = "DoIt"
   # website title
   title = "BHAA's Blog"
   # site description
-  description = "This is My New Hugo Site"
+  description = "Note Techniques, Veille et Blabla"
   # site keywords
   keywords = ["Theme", "Hugo"]
   #  site default theme ("light", "dark", "black", "auto")
