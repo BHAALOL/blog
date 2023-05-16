@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://75.119.149.195/categories/</loc>
-  </url><url>
-    <loc>http://75.119.149.195/</loc>
-  </url><url>
-    <loc>http://75.119.149.195/tags/</loc>
-  </url>
-</urlset>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>http://localhost/</loc><lastmod>2023-05-15T15:40:07&#43;02:00</lastmod></url><url>
+            <loc>http://localhost/posts/my-first-post/</loc><lastmod>2023-05-15T15:40:07&#43;02:00</lastmod></url><url>
+            <loc>http://localhost/posts/</loc><lastmod>2023-05-15T15:40:07&#43;02:00</lastmod></url><url>
+            <loc>http://localhost/post/my-first-post/</loc></url><url>
+            <loc>http://localhost/categories/</loc></url><url>
+            <loc>http://localhost/post/</loc></url><url>
+            <loc>http://localhost/tags/</loc></url></urlset>
