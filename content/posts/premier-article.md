@@ -1,7 +1,7 @@
 ---
 title: "Premier Article"
 date: 2023-05-16T08:20:09+02:00
-authors:[GuigZer]
+authors: [GuigZer]
 draft: false
 ---
 ##Premier test d'article
