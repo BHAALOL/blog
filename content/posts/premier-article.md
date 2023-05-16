@@ -1,6 +1,6 @@
 ---
-title: "2nd Post"
-date: 2023-05-16T08:01:15+02:00
+title: "Premier Article"
+date: 2023-05-16T08:20:09+02:00
 draft: false
 ---
 ##Premier test d'article
@@ -26,4 +26,5 @@ The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ i
 $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
 $$
+
 
