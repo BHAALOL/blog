@@ -222,12 +222,12 @@ theme = "DoIt"
 
   # Social config about the author
   [params.social]
-    GitHub = "xxxx"
+    GitHub = "https://github.com/BHAALOL"
     Linkedin = ""
-    Twitter = "xxxx"
-    Instagram = "xxxx"
-    Facebook = "xxxx"
-    Telegram = "xxxx"
+    Twitter = ""
+    Instagram = ""
+    Facebook = ""
+    Telegram = ""
     Medium = ""
     Gitlab = ""
     Youtubelegacy = ""
@@ -291,8 +291,8 @@ theme = "DoIt"
     Linktree = ""
     QQ = ""
     QQGroup = ""
-    Email = "xxxx@xxxx.com"
-    RSS = true # 
+    Email = "guigzer@bhaa.ovh"
+    RSS = false # 
 
   #  Page config
   [params.page]
