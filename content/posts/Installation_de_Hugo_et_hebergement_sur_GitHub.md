@@ -43,4 +43,4 @@ git branch -M main
 git push -u origin main
 ```
 3. Dans votre dépot GitHub il faut aller dans **Settings > Pages** au milleux de la page vous devez voir **Build and deployment** 
-4. 
+![Github Image](gh-pages-1.png)
